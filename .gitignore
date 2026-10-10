@@ -1,0 +1,4 @@
+.venv/
+.ipynb_checkpoints/
+iris_analysis_naif/
+iris_analysis_naif.zip
